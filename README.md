@@ -1,14 +1,16 @@
-# 📖 Use Command-Line Commands to Create Directory and File
+# Express Your CRUD
 
-Work with a partner to implement the following user story:
+# 📖 Use Command-Line Commands to Create 
 
-* As a developer, I want to use the command line to create a directory and file on my computer. 
 
 ## Acceptance Criteria
 
-* It's done when a new directory named `first-day` has been created using command-line commands.
-
-* It's done when the `first-day` directory contains a file named `index.html`. The file should also be created using command-line commands.
+Presume you create a functional Express.js that has API keys. The first thing to do is add your database name, MYSQL username, 
+an MYSQL password to the environment variable file to be able to connect to a database using Sequelize. An insertion for schema 
+and seed commands will be needed to be able to create a development database seeded with test data. As you enter the command to
+invoke the application the server is started and the Sequelize models are synced to the MYSQL database. As you open API GET routes
+in Insomnia for categories, products, or tags then the data for each of these routes is displayed in a formatted JSON. As you 
+test API POST, PUT, and DELETE routes in Insomnia you will be able to successfully create, update, and delete data in your database.
 
 ## 📝 Notes
 
@@ -18,19 +20,9 @@ Refer to the documentation:
 
 ---
 
-## 💡 Hints
 
-What command can you use to list the contents of a directory? How can you use this command to check your work?
 
-## 🏆 Bonus
 
-If you have completed this activity, work through the following challenge with your partner to further your knowledge:
 
-* Which command do you use to copy or move files?
 
-Use [Google](https://www.google.com) or another search engine to research this.
 
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-# ExpressYourCrud
-# ExpressYourCrud
