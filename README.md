@@ -19,7 +19,7 @@ test API POST, PUT, and DELETE routes in Insomnia you will be able to successful
 
 Refer to the documentation: 
 
-[MDN Web Docs on basic built-in terminal commands](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#Basic_built-in_terminal_commands)
+[ORM: Rethinking Data as Objects](https://blog.yellowant.com/orm-rethinking-data-as-objects-8ddaa43b1410)
 
 ---
 
