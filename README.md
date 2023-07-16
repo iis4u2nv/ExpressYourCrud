@@ -12,6 +12,9 @@ invoke the application the server is started and the Sequelize models are synced
 in Insomnia for categories, products, or tags then the data for each of these routes is displayed in a formatted JSON. As you 
 test API POST, PUT, and DELETE routes in Insomnia you will be able to successfully create, update, and delete data in your database.
 
+## Mock-Up
+
+
 ## 📝 Notes
 
 Refer to the documentation: 
