@@ -14,6 +14,8 @@ test API POST, PUT, and DELETE routes in Insomnia you will be able to successful
 
 ## Mock-Up
 
+The following video shows the web application's appearance and functionality:
+
 https://https://app.screencastify.com/manage/videos/ENoBVK6VFhTUBTLyeTlF
 
 ## 📝 Notes
