@@ -1,6 +1,6 @@
 # Express Your CRUD
 
-# 📖 Using Command-Line Commands to create a back end for an e-commerce website that uses the latest technologies for a company to compete with other e-commerce companies in the internet reatail world
+# 📖 Using the Command-Line Commands to create a back end for an e-commerce website that uses the latest technologies for a company to compete with other e-commerce companies in the internet reatail world
 
 
 ## Acceptance Criteria
